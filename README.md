@@ -8,4 +8,4 @@ Currently, I have been studying ReactJS at Rocketseat.
 💬 About me: I enjoy traveling, watching series, movies and playing soccer.
 
 📫 How to reach me: 
-send on DM [LinkedIn](https://www.linkedin.com/in/renato-lima-ab1159108//) or by email: renato_f_lima6@hotmail.com
+send on DM [LinkedIn](https://www.linkedin.com/in/renato-lima-ab1159108//) or by email: renato_f_lima6@hotmail.com.
